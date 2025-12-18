@@ -1,20 +1,47 @@
 module.exports = [
   {
-  id: 1,
-  title: 'High Garden Pinot Noir 2021',
-  sku: 'HGVPIN21',
-  brand: 'High Garden',
-  category: 'Wine',
-  segment: 'Red',
-  price: 279.06
+    id: 1,
+    title: 'High Garden Pinot Noir 2021',
+    sku: 'HGVPIN21',
+    brand: 'High Garden',
+    category: 'Wine',
+    segment: 'Red',
+    price: 279.06,
   },
   {
-  id: 2,
-  title: 'Koyama Methode Brut Nature NV',
-  sku: 'KOYBRUNV6',
-  brand: 'Koyama Wines',
-  category: 'Wine',
-  segment: 'Sparkling',
-  price: 120
-  }
-  ];
+    id: 2,
+    title: 'Koyama Methode Brut Nature NV',
+    sku: 'KOYBRUNV6',
+    brand: 'Koyama Wines',
+    category: 'Wine',
+    segment: 'Sparkling',
+    price: 120,
+  },
+  {
+    id: 3,
+    title: 'Koyama Riesling 2018',
+    sku: 'KOYNR1837',
+    brand: 'Koyama Wines',
+    category: 'Wine',
+    segment: 'Port/Dessert',
+    price: 215.04,
+  },
+  {
+    id: 4,
+    title: 'Koyama Tussock Riesling 2019',
+    sku: 'KOYRIE19',
+    brand: 'Koyama Wines',
+    category: 'Wine',
+    segment: 'White',
+    price: 215.04,
+  },
+  {
+    id: 5,
+    title: 'Lacourte-Godbillon Brut Cru NV',
+    sku: 'LACBNATNV6',
+    brand: 'Lacourte-Godbillon',
+    category: 'Wine',
+    segment: 'Sparkling',
+    price: 409.32,
+  },
+];
